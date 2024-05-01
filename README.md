@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I'm currently learning Python**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about Lua / C++ Python or anything else here [here](kingrtxnova@gmail.com)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ **⚡ “Getting it right the first time is not important at all. It's extremely important to get it right last time"**
 
  </div>
  
