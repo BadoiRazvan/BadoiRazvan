@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🌱 I'm currently learning Python**
+ 🌱 **I'm currently learning Python**
 
-💬 Ask me about Lua / C++ Python or anything else here [here](kingrtxnova@gmail.com)**
+💬 **Ask me about Lua / C++ Python or anything else here (kingrtxnova@gmail.com)**
 
  **⚡ “Getting it right the first time is not important at all. It's extremely important to get it right last time"**
 
