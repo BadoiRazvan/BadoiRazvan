@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,github,css,html,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,github,css,html,django,robotics" /><br>
 </div>
 
 <div align="center">
