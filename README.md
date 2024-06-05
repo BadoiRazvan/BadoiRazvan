@@ -13,6 +13,7 @@
  👨‍💻 **I'm currently learning Python**
 
 💬 **Ask me about Lua / C++ Python or anything else here (kingrtxnova@gmail.com)**
+💬 **DISCORD : kingrtxnova**
 
  **⚡ “Getting it right the first time is not important at all. It's extremely important to get it right last time"**
 
